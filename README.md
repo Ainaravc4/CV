@@ -40,4 +40,4 @@ En la sección de proyectos:
 </ul>
 
 Enlace: 
-https://ainaravc4.github.io/Prueba2/index.html
+https://ainaravc4.github.io/CV/
