@@ -13,14 +13,16 @@ Se utiliza el tema de Boostrap estándar pero he modificando las propiedades CSS
 Todas las páginas son responsive para varios tipos de dispositivos.
 
 <h3>Componentes principales</h3>
-• Sobre mí: compuesta por nombre y apellidos, fecha nacimiento, dirección, correo electrónico y teléfono de contacto, redes sociales así como una breve presentación sobre mi
-• Experiencia professional: compuesta por una lista de puestos de trabajo que he desarrollado en el paso.
-• Educación: compuesta por una lista de títulos oficiales.
-• Destrezas o habilidades: Lista de herramientas que conozco.
-• Proyectos desarrollados (portfolio): Lista de proyectos terminados desarrollados.
-• Idiomas: compuesta por una lista de idiomas que conozco
-• Referencias: opiniones de personas que han trabajado conmigo y han sido profesores mios.
-• Contacto: Formulario con los campos básicos para contactar conmigo.
+<ul>
+  <li>Sobre mí: compuesta por nombre y apellidos, fecha nacimiento, dirección, correo electrónico y teléfono de contacto, redes sociales así como una breve presentación sobre mi.</li>
+  <li>Experiencia professional: compuesta por una lista de puestos de trabajo que he desarrollado en el paso.</li>
+  <li>Educación: compuesta por una lista de títulos oficiales.</li>
+  <li>Destrezas o habilidades: Lista de herramientas que conozco.</li>
+  <li>Proyectos desarrollados (portfolio): Lista de proyectos terminados desarrollados.</li>
+  <li>Idiomas: compuesta por una lista de idiomas que conozco.</li>
+  <li>Referencias: opiniones de personas que han trabajado conmigo y han sido profesores mios.</li>
+  <li>Contacto: Formulario con los campos básicos para contactar conmigo.</li>
+</ul>
 
 <h2>Requisitos técnicos</h2>
 Todo el contenido mostrado en la web se lee desde un fichero JSON. Esto
@@ -29,11 +31,13 @@ Ese archivo JSON se carga una única vez al ejecutar la web mediante una petici�
 
 <h3>Proyectos</h3>
 En la sección de proyectos:
-• Inicialmente se muestra una tarjeta con el título del proyecto junto a una imagen.
-• Al hacer click en uno de ellos se abre en un modal la información relativa a ese proyecto.
-• La web consta de animaciones realizadas mediante VueJS.
-• La web esta tanto en español como inglés, se puede acceder mediante un botón en la barra de navegacion.
-• Todos los links son reales, llevando a mis respectivos perfiles.
+<ul>
+  <li>Inicialmente se muestra una tarjeta con el título del proyecto junto a una imagen.</li>
+  <li>Al hacer click en uno de ellos se abre en un modal la información relativa a ese proyecto.</li>
+  <li>La web consta de animaciones realizadas mediante VueJS.</li>
+  <li>La web esta tanto en español como inglés, se puede acceder mediante un botón en la barra de navegacion.</li>
+  <li>Todos los links son reales, llevando a mis respectivos perfiles.</li>
+</ul>
 
 Enlace: 
 https://ainaravc4.github.io/Prueba2/index.html
